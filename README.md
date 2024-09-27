@@ -9,7 +9,7 @@ The classic pong game will be displayed on the LED matrix. The player can contro
 - 5x8 LED matrix
 - Buttons
 - Keypad
-- UNO R3 Controller Board
+- ATMEL_ICE Debugger
 - 830 Tie-Points Breadboards
 - Breadboard Jumper Wires
 - Female to Male Dupont Wire
